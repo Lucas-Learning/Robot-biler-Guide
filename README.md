@@ -20,7 +20,7 @@ På skrivebordet vil du se en fil med navnet `start.sh`. Dobbeltklik på denne f
 
 Efter du har dobbeltklikket på `start.sh`, vil der dukke en boks op, hvor du skal vælge "Execute in Terminal".
 
-![Execute in Terminal](./)
+![Execute in Terminal](./2024-08-23-015417_1920x1080_scrot.png)
 
 ### 3. Terminalen åbnes
 
