@@ -37,4 +37,3 @@ Når scriptet kører, kan du styre robotbilen ved at bruge følgende taster på 
 - `S` for at bakke.
 - `D` for at dreje til højre.
 
-God fornøjelse med din robotbil
