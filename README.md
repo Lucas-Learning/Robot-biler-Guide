@@ -14,7 +14,7 @@ Find den røde bil, som vist på billedet nedenfor. Sørg for at tænde motoren 
 
 På skrivebordet vil du se en fil med navnet `start.sh`. Dobbeltklik på denne fil.
 
-![Dobbeltklik på start.sh](./2024-08-23-015410_1920x1080_scrot.png)
+![Dobbeltklik på start.sh](./2024-08-23-015406_1920x1080_scrot.png)
 
 ### 2. Vælg "Execute in Terminal"
 
