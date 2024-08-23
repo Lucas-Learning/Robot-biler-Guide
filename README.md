@@ -6,7 +6,7 @@ Denne guide viser, hvordan du starter din robotbil op og styrer den med tastatur
 
 Find den røde bil, som vist på billedet nedenfor. Sørg for at tænde motoren ved at skubbe knappen til "ON"-positionen.
 
-![Tænd motoren](./2024-08-23-015406_1920x1080_scrot.png)
+![Tænd motoren](./IMG_0887.jpg)
 
 ## Trin 2: Start robotten via script
 
